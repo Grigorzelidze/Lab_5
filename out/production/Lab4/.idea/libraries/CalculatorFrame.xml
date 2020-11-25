@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculatorFrame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/jar/CalculatorFrame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
